@@ -114,6 +114,6 @@ function generate( e ) {
 //     generate( e );
 // };
 
-window.addEventListener( 'mousedown', function ( e ) {
+window.addEventListener( 'click', function ( e ) {
     generate( e );
 } );
