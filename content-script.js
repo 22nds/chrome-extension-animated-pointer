@@ -2,8 +2,8 @@
 
 function getMousePosition( e ) {
     return {
-        x: e.clientX,
-        y: e.clientY
+        x: e.pageX,
+        y: e.pageY
     };
 }
 
