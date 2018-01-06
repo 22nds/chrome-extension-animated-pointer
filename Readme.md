@@ -2,7 +2,7 @@
 
 It highlights clicks with animated circles.
 
-![](img/animated-pointer.gif)
+![](images/animated-pointer.gif)
 
 ## Instructions for Chromium
 To enable extension follow these steps
